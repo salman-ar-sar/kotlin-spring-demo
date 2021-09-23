@@ -16,3 +16,7 @@ A small web application that creates a RESTful web service and uses a database f
 
     - `cd kotlin-spring-demo`
     - `mvn spring-boot:run`
+
+## References
+
+- [Create a RESTful web service with a database using Spring Boot – tutorial](https://kotlinlang.org/docs/jvm-spring-boot-restful.html)
